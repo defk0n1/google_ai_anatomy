@@ -14,6 +14,5 @@ This repo documents our journey through the competition, featuring submission st
 - `3rdsubmission.ipynb`  
   🏁 Thirds submission with changed params and training changes.
 
-- `Medical-QA-Competition-Kaggle-Solution-Walkthrough.pdf`
-  📘 Submission presentation
+
 
