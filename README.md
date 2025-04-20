@@ -1,7 +1,7 @@
-# 🧠 AI Anatomy - Kaggle Competition Submission
+# 🧠 AI Anatomy - Kaggle Competition Submission - Team XDEAM
 
-Welcome to my repository for the **AI Anatomy** competition on Kaggle!  
-This repo documents my journey through the competition, featuring submission strategies and the data preprocessing pipeline.
+Welcome to the repository for the **AI Anatomy** competition on Kaggle!  
+This repo documents our journey through the competition, featuring submission strategies and the data preprocessing pipeline.
 
 ## 🗂️ Repository Structure
 
